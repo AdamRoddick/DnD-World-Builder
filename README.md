@@ -1,28 +1,23 @@
-# DnD World Builder
+# DnD Map Generator
 
-### Areas to work on:
- - [x] Domain (Rooms, towns, entities, etc)
- - [ ] Fog of War (Split view for players and DM)
- - [x] Generator
- - [ ] Editor
- - [ ] Downloader/Saver (he can keep a map he likes) 
- - [ ] Requirements/Specification settings
- - [ ] Visualiser
- - [ ] Online Services
- 
+## Overview
 
-### Members
+The DnD Map Generator is a tool for creating dynamic and customizable Dungeons & Dragons (D&D) maps. Developed in Unity and C#, this project aims to provide Dungeon Masters and players with a user-friendly interface to generate diverse and engaging game worlds, fostering enhanced replayability. This project was developed in a different version control system with a different storage space allocation, a link to all the files required to run the program can be found below.
 
-| Name | Area |
-| ------ | ------ |
-| Adam Roddick | Backend () |
-| Benjamin McEvoy | Frontend (Assets) |
-| Braeden Windle | Backend () |
-| Ethan Windle | Frontend (UI) |
-| Nathan Bennett | Backend () |
-| Vedaanth Kannan | Backend () |
+## Getting Started
 
-## Scope
+Follow these steps to get the DnD Map Generator up and running on your local machine:
 
-We are attempting to create a dungeon generator within a singular city map, that can be divided in multiple sections. We plan to add customisation, while giving the client as the least amount of work possible. 
+1. **Dowload the Full Project and Unzip:** [DnD Map Generator](https://drive.google.com/file/d/1Po8nD7fXq4JkRDCABbdCvHk4EwKMiB_6/view?usp=drive_link)
+2. **Open in Unity**:
+    - Install Unity editor version 2022.3.5f1
+    - Add the downloaded repository as a new project in Unity Hub
+3. **Run the Program**
+    - Launch the Project from the Unity Hub
+    - Select the "titlePage" scene in Assets/Scenes
+    - Click the play button to run the program
 
+## Requirements
+
+- Unity Hub
+- Unity 2022.3.5f1
